@@ -1,0 +1,36 @@
+# MCP Generation Progress Tracker
+
+This file tracks the progress of generating Model Context Profiles for each module in the Frappe Framework.
+
+## Modules
+
+- [x] `api` (Completed)
+- [x] `automation` (Completed)
+- [x] `change_log` (Completed)
+- [x] `commands` (Completed)
+- [x] `contacts` (Completed)
+- [x] `core` (Completed)
+- [x] `custom` (Completed)
+- [x] `data` (Completed)
+- [x] `database` (Completed)
+- [x] `desk` (Completed)
+- [x] `email` (Completed)
+- [x] `geo` (Completed)
+- [x] `gettext` (Completed)
+- [x] `integrations` (Completed)
+- [x] `locale` (Completed)
+- [x] `model` (Completed)
+- [x] `modules` (Completed)
+- [x] `patches` (Completed)
+- [x] `printing` (Completed)
+- [x] `public` (Completed)
+- [x] `query_builder` (Completed)
+- [x] `search` (Completed)
+- [x] `templates` (Completed)
+- [x] `testing` (Completed)
+- [x] `tests` (Completed)
+- [x] `types` (Completed)
+- [x] `utils` (Completed)
+- [x] `website` (Completed)
+- [x] `workflow` (Completed)
+- [x] `www` (Completed)
