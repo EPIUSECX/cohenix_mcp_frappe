@@ -1,0 +1,26 @@
+# Python Module Analysis: `/workspace/cohenix-bench/apps/erpnext/erpnext/patches/v13_0/rename_issue_status_hold_to_on_hold.py`
+
+## Classes
+
+No classes found in this file.
+
+
+## Functions
+
+### `execute`
+**Arguments:** ``
+**Decorators:** ``
+
+**Docstring:**
+```
+
+```
+### `rename_status`
+**Arguments:** ``
+**Decorators:** ``
+
+**Docstring:**
+```
+
+```
+

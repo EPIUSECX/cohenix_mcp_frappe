@@ -1,0 +1,18 @@
+# Python Module Analysis: `/workspace/cohenix-bench/apps/hrms/hrms/hr/doctype/training_event/training_event_dashboard.py`
+
+## Classes
+
+No classes found in this file.
+
+
+## Functions
+
+### `get_data`
+**Arguments:** ``
+**Decorators:** ``
+
+**Docstring:**
+```
+
+```
+
